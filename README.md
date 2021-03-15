@@ -1,1 +1,1 @@
-# webpack-web-server-template-file
+# server-package-template
